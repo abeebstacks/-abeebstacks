@@ -48,8 +48,8 @@ A four-step framework for refactoring GRC documentation so the people who need t
 
 - **GitHub:** [github.com/abeebstacks](https://github.com/abeebstacks)
 - **HackerNoon:** [hackernoon.com/u/abeebstacks](https://hackernoon.com/u/abeebstacks)
-- **LinkedIn:** [linkedin.com/in/abeeb-babatunde](https://www.linkedin.com/in/abeebstacks/)
-- **Email:** your@email.com
+- **LinkedIn:** [linkedin.com/in/abeebstacks](https://www.linkedin.com/in/abeebstacks/)
+- **Email:** babsayandayo@email.com
 
 ---
 
