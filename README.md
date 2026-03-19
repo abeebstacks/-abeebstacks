@@ -30,7 +30,7 @@ A four-step framework for refactoring GRC documentation so the people who need t
 
 | Title | Platform | Published |
 |---|---|---|
-| [How to Write GRC Documentation That Non-Technical Stakeholders Actually Understand](./articles/grc-documentation-non-technical-stakeholders.md) | HackerNoon | 2025 |
+| [How to Write GRC Documentation That Non-Technical Stakeholders Actually Understand](./articles/grc-documentation-non-technical-stakeholders.md) | HackerNoon | 2026 |
 
 ---
 
