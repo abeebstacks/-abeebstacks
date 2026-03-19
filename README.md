@@ -26,11 +26,13 @@ A four-step framework for refactoring GRC documentation so the people who need t
 
 ---
 
-### Published Articles
+## Published Articles
 
 | Title | Platform | Published |
 |---|---|---|
-| [How to Write GRC Documentation That Non-Technical Stakeholders Actually Understand](./articles/grc-documentation-non-technical-stakeholders.md) | HackerNoon | 2026 |
+| [How to Write GRC Documentation That Non-Technical Stakeholders Actually Understand](./articles/grc-documentation-non-technical-stakeholders.md) | HackerNoon | March 2026 |
+| [What NIST CSF 2.0 Actually Means for a Nigerian Fintech Platform](https://abeebstacks.medium.com/what-nist-csf-2-0-actually-means-for-a-nigerian-fintech-platform-b575413a2e54) | Medium | March 2026 |
+| [What to Say When a Series A Investor Asks About Your Cybersecurity Framework](https://abeebstacks.medium.com/what-to-say-when-a-series-a-investor-asks-about-your-cybersecurity-framework-14d03c606ef1) | Medium | March 2026 |
 
 ---
 
