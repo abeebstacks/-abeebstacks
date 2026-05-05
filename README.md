@@ -2,9 +2,9 @@
 
 **Technical Writer & Front-End Developer in Training | Lagos, Nigeria**
 
-i build and document products for b2b fintech and saas.
+I build and document products for b2b fintech and saas.
 
-currently learning html, css, javascript, and python
+Currently learning HTML, CSS, JavaScript, and Python
 while sharpening my edge in api documentation and technical writing.
 
 building docbloom.ai.
