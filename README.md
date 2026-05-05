@@ -1,11 +1,8 @@
 # Abeeb Babatunde
 
-**Technical Writer & GRC Strategist | Lagos, Nigeria**
+**Technical Writer & Front-End Developer in Training | Lagos, Nigeria**
 
-I translate complex security frameworks into documentation that non-technical stakeholders can actually understand and act on. My work sits at the intersection of cybersecurity compliance, technical writing, and operational clarity for fintech and B2B SaaS companies.
-
-Currently studying Public Policy at Miva Open University and completing the Google Cybersecurity Professional Certificate.
-
+I build and document products for B2B Fintech and SaaS companies. Currently learning HTML, CSS, JavaScript, and Python alongside API documentation and technical writing. Building DocBloom.ai as a portfolio SaaS product.
 ---
 
 ## What You Will Find Here
@@ -36,9 +33,16 @@ A four-step framework for refactoring GRC documentation so the people who need t
 
 ---
 
-## Frameworks I Work With
+## Skills & Tools
 
-- NIST Cybersecurity Framework (CSF 1.1 and 2.0)
+- HTML
+- CSS
+- Javascript
+- Python
+- Markdown
+- Git
+- SEO
+- API Documentation
 - ISO 27001
 - GDPR
 - Nigeria Data Protection Act (NDPA) / NDPC Guidelines
