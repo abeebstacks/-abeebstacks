@@ -2,8 +2,12 @@
 
 **Technical Writer & Front-End Developer in Training | Lagos, Nigeria**
 
-I build and document products for B2B Fintech and SaaS companies. Currently learning HTML, CSS, JavaScript, and Python alongside API documentation and technical writing. Building DocBloom.ai as a portfolio SaaS product.
----
+i build and document products for b2b fintech and saas.
+
+currently learning html, css, javascript, and python
+while sharpening my edge in api documentation and technical writing.
+
+building docbloom.ai.
 
 ## What You Will Find Here
 
